@@ -8,3 +8,4 @@
 * Nivel 7: [1-9]+[A-C]
 * Nivel 8: [1-9]+[AcWh]
 * Nivel 9: [^-]+
+* Nivel 10: [JH]{1}-[0-9]{6}[AC]
