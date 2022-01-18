@@ -7,3 +7,4 @@
 * Nivel 6: [1-9]+[A]
 * Nivel 7: [1-9]+[A-C]
 * Nivel 8: [1-9]+[AcWh]
+* Nivel 9: [^-]+
