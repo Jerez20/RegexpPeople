@@ -4,3 +4,4 @@
 * Nivel 3: .4921132A
 * Nivel 4: 7+A
 * Nivel 5: .+A
+* Nivel 6: [1-9]+[A]
